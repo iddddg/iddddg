@@ -1,18 +1,32 @@
-### Hi there 👋
+<h1>Hi 👋, I'm iddddg</h1>
 
-![淡定定定哥's github stats](https://github-readme-stats.vercel.app/api?username=iddddg)
 
-<!--
-**iddddg/iddddg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://github-readme-stats.vercel.app/api?username=iddddg" alt="淡定定定哥's github stats" align="right" />
 
-Here are some ideas to get you started:
+### 💼**Web Full Stack Developer**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👇 Hit in your terminal to connect with me.
+```bash
+start https://www.iddddg.com
+```
+
+<details>
+<summary><b>More...</b></summary>
+
+## 😎 A little more about me...  
+
+```go
+iddddg := &Info {
+    Name: "iddddg",
+    Age: 24,
+    Work: "Web Full Stack Developer",
+    Email: "iddddg@qq.com",
+    Website: "https://www.iddddg.com",
+    Location: "Nanjing, China"
+}
+```
+
+## ⚡ Technologies
+
+Let me think
+</details>
