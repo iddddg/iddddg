@@ -5,7 +5,7 @@
 
 ### 💼**Web Full Stack Developer**
 
-## 👇 Hit in your terminal to connect with me.
+👇 Hit in your terminal to connect with me.
 ```bash
 start https://www.iddddg.com
 ```
